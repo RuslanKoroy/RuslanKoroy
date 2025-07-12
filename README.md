@@ -1,6 +1,6 @@
 # Hi, I'm @RuslanKoroy 👋
 
-I'm a developer with a Bachelor's degree in Computer Science and Engineering. Skilled in Python and C#, I find myself at the intersection of software development and the field of Machine Learning and Data Science. I also interested in creating bots for Telegram and VK.
+I'm a developer with a Master's degree in Computer Science and Engineering. Skilled in Python and C#, I find myself at the intersection of software development and the field of Machine Learning and Data Science. I also interested in creating bots for Telegram and VK.
 
 ## 🛠 Technical Skills
 - **Languages:** Python, C#
