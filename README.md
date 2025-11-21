@@ -10,7 +10,7 @@ I'm a developer with a Master's degree in Computer Science and Engineering. Skil
 - **Others:** Machine Learning, Data Analysis, Natural Language Processing
 
 ## 📚 Education
-- **B.Sc. in Computer Science and Engineering**
+- **M.Sc. in Computer Science and Engineering**
   - Specialized in Informatics and Computational Technology.
   - **Thesis:** Developed a neural network model for assessing the quality of foreign speech pronunciation.
 
