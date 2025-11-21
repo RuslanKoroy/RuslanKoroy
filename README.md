@@ -3,7 +3,7 @@
 I'm a developer with a Master's degree in Computer Science and Engineering. Skilled in Python and C#, I find myself at the intersection of software development and the field of Machine Learning and Data Science. I also interested in creating bots for Telegram and VK.
 
 ## 🛠 Technical Skills
-- **Languages:** Python, C#
+- **Languages:** Python, C#, C++, Go, JS
 - **Frameworks & Libraries:** PyTorch, Scikit-learn, TensorFlow, Pandas
 - **Tools & Platforms:** Git, Jupyter Notebook
 - **Databases:** PostgreSQL
